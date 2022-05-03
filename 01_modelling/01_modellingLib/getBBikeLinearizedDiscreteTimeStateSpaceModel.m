@@ -1,4 +1,4 @@
-function [chabo_ol_lin_disc, constraints] = getChaboLinearizedDiscreteTimeStateSpaceModel()
+function [chabo_ol_lin_disc, constraints] = getBBikeLinearizedDiscreteTimeStateSpaceModel()
 %GETCHABOLINEARIZEDDISCRETETIMEMODEL 
 %   Detailed explanation goes here
 % load model from .mat file
