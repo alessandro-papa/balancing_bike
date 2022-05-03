@@ -1,4 +1,4 @@
-function [para] = getBalancingBikeParameters()
+function [para] = getBBikeParameters()
 % set physical parameters here
 %%   masses  
     para.m1         = 0;     % body + flywheel
