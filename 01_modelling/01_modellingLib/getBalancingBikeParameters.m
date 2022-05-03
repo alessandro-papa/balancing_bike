@@ -1,4 +1,4 @@
-function [para] = getChaboParameters()
+function [para] = getBalancingBikeParameters()
 % chabo v6 (see fusion project chabo)
 % EC90 motor + ESCON 70/10. light flywheel (1.6kg).
 %%   masses  
