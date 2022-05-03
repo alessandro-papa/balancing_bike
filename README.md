@@ -11,4 +11,4 @@ set physical parameters of the bike for the simulation.
 
 #### script_3_1
 
-design a stabilizing feedback controller via LQR. Simulate rsults in time domain.
+design a stabilizing feedback controller via LQR. Simulate results in time domain.
