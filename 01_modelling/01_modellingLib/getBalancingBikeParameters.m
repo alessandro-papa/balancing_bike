@@ -1,6 +1,5 @@
 function [para] = getBalancingBikeParameters()
-% chabo v6 (see fusion project chabo)
-% EC90 motor + ESCON 70/10. light flywheel (1.6kg).
+% set physical parameters here
 %%   masses  
     para.m1         = 0;     % body + flywheel
     para.m2         = 0;     % whole robot

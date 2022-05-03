@@ -1,4 +1,4 @@
-function out = getChaboLinearizedSystemsDynamics()
+function out = getBBikeLinearizedSystemsDynamics()
 % generate linearized systems parameter out of physical parameters
     % get Chabo parameters
 	p = getChaboParameters();
