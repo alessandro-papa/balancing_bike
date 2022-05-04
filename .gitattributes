@@ -9,13 +9,14 @@
 # ============
 *.m             text diff=matlab
 *.mu            text diff=matlab
-*.mlx           text diff=matlab
+# *.mlx           text diff=matlab
 *.txt           text diff=matlab
     
 # Caution: *.m also matches Mathematica packages.
 
 # Binary files
 # ============
+*.mlx           binary
 *.p             binary
 *.mex*          binary
 *.fig           binary
