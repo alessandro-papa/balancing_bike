@@ -1,4 +1,9 @@
 # balancing_bike
+
+#### set up workspace / include local libraries and set plot options
+
+run includePaths.m
+run startup.m
  
 #### script_1_1
          
